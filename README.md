@@ -1,13 +1,18 @@
 # the recursion theorem lab.
 
-This is my TypeScript implementation of a <ins>**quine**</ins> for "The Recursion Theorem" lab in Grinnell's CSC-341 (commonly known as Theory of Computation in other institutions).
+This is my TypeScript implementation of a <ins>**quine**</ins>.
+
+This was made for "The Recursion Theorem" lab in Grinnell's CSC-341.
+
+> [!NOTE]
+> CSC-341 is more commonly known as Theory of Computation in other institutions.
 
 ## what is a quine?
 
 A <ins>**quine**</ins> is basically a program that prints itself, **without taking in any input.**
 
 > [!NOTE]
-> So, you can't pass in the source code file into the quine to itself, which would this program trivial to make.
+> So, you can't pass in the source code file into the quine to itself, which would make this program trivial to make.
 
 ## how do i run this?
 
@@ -25,6 +30,6 @@ A <ins>**quine**</ins> is basically a program that prints itself, **without taki
 
    - To do this with pnpm, `pnpx tsx quine.ts`.
 
-> [!NOTE]
+> [!Tip]
 > If you want to skip installing dependencies (since this only uses `tsx`), you can do `pnpx tsx quine.ts` instead of Step 2.
 > I think npm's version of this is `npx tsx quine.ts`.
