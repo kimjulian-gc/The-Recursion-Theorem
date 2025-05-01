@@ -1,6 +1,6 @@
 # the recursion theorem lab.
 
-This is my implementation of a <ins>**quine**</ins> for "The Recursion Theorem" lab in Grinnell's CSC-341 (commonly known as Theory of Computation in other institutions).
+This is my TypeScript implementation of a <ins>**quine**</ins> for "The Recursion Theorem" lab in Grinnell's CSC-341 (commonly known as Theory of Computation in other institutions).
 
 ## what is a quine?
 
