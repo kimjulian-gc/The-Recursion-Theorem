@@ -33,3 +33,6 @@ A <ins>**quine**</ins> is basically a program that prints itself, **without taki
 > [!Tip]
 > If you want to skip installing dependencies (since this only uses `tsx`), you can do `pnpx tsx quine.ts` instead of Step 2.
 > I think npm's version of this is `npx tsx quine.ts`.
+
+> [!Tip]
+> You can also pipe the output to a text file with `pnpx tsx quine.ts > output.txt`.
