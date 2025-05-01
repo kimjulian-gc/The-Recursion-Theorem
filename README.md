@@ -12,7 +12,7 @@ This was made for "The Recursion Theorem" lab in Grinnell's CSC-341.
 A <ins>**quine**</ins> is basically a program that prints itself, **without taking in any input.**
 
 > [!NOTE]
-> So, you can't pass in the source code file into the quine to itself, which would make this program trivial to make.
+> So, you can't pass in the source code file into the program itself, which would make this program trivial to make.
 
 ## how do i run this?
 
